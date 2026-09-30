@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/BP_Characters/CH_PEP.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/BP_Characters/PC_pep.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/BP_Characters/PCM_pep.uasset"
+			]
+		}
+	]
+}
