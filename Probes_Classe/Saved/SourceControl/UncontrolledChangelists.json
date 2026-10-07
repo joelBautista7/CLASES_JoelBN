@@ -7,7 +7,21 @@
 			"files": [
 				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/BP_Characters/CH_PEP.uasset",
 				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/BP_Characters/PC_pep.uasset",
-				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/BP_Characters/PCM_pep.uasset"
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/BP_Characters/PCM_pep.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/bp_anim_Platform.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/IA_Rata.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/__ExternalActors__/LEVEL/Prueba_JoelBautista/E/ZS/SURM52DBI1KC1Z9R35L8EH.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/LEVEL/Prueba_JoelBautista.umap",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/BP_Characters/GM_PEP_Config.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/BP_Interface.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/BP_Palanca.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/BP_Characters/IMC_Gameplay_PEP.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/IA_interaction.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/__ExternalActors__/LEVEL/Prueba_JoelBautista/C/1G/L0VU1VI3FMPBBLD36SFCY2.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/I_Interaction.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/I_Action.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/__ExternalActors__/LEVEL/Prueba_JoelBautista/6/ZQ/87LHG1MU9UA7OFR14L9903.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/__ExternalActors__/LEVEL/Prueba_JoelBautista/B/QL/PE2RKQPXMHNJ40PDDVC9L0.uasset"
 			]
 		}
 	]
