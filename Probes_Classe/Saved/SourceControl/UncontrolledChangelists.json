@@ -13,7 +13,6 @@
 				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/__ExternalActors__/LEVEL/Prueba_JoelBautista/E/ZS/SURM52DBI1KC1Z9R35L8EH.uasset",
 				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/LEVEL/Prueba_JoelBautista.umap",
 				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/BP_Characters/GM_PEP_Config.uasset",
-				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/BP_Interface.uasset",
 				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/BP_Palanca.uasset",
 				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/BP_Characters/IMC_Gameplay_PEP.uasset",
 				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/IA_interaction.uasset",
@@ -21,7 +20,29 @@
 				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/I_Interaction.uasset",
 				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/I_Action.uasset",
 				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/__ExternalActors__/LEVEL/Prueba_JoelBautista/6/ZQ/87LHG1MU9UA7OFR14L9903.uasset",
-				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/__ExternalActors__/LEVEL/Prueba_JoelBautista/B/QL/PE2RKQPXMHNJ40PDDVC9L0.uasset"
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/__ExternalActors__/LEVEL/Prueba_JoelBautista/B/QL/PE2RKQPXMHNJ40PDDVC9L0.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Characters/Animation/Idle_Skeleton.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Characters/Animation/Idle.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Characters/Animation/Idle_PhysicsAsset.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Characters/Animation/Idle_Anim.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Characters/Material/Beta_HighLimbsGeoSG3.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Characters/Material/Beta_Joints_MAT1.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Characters/ABP_IdleAnim.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Characters/Animation/Fast_Run_PEP.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Characters/Animation/Walking_PEP.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Characters/Animation/BS_CH_Locomotion.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/BP_Characters/AC_Life.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/BP/BP_HitTrigger.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/__ExternalActors__/LEVEL/Prueba_JoelBautista/3/81/R45VV8IBFDPOL8LLZO8UO7.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/Manager/UI_Game.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/Manager/UserWidget_Pep.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/LEVEL/Animation/Idle_Anim.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/LEVEL/Material/Beta_HighLimbsGeoSG3.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/LEVEL/Material/Beta_Joints_MAT1.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/LEVEL/Animation/Idle.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/LEVEL/Animation/Idle_PhysicsAsset.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/LEVEL/Animation/Idle_Skeleton.uasset",
+				"C:/InfoAlumnes/joel Bautista/CLASES_JoelBN/Probes_Classe/Content/Blueprints/BP_Interface.uasset"
 			]
 		}
 	]
